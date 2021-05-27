@@ -19,5 +19,13 @@ Curso Aprenda Golang do Zero ! - Módulo Fundamentos da Linguagem
 
 `go run main.go`
 
+- Exemplo de um comando para instalação de dependencias, dentro da pasta `1 - Pacotes`:
+
+`go get github.com/badoux/checkmail`
+
+- Para excluir dependencias nao utilizadas do `go.mod`, usar o comando :
+
+`go mod tidy`
+
 # Autor
 Jéssika Fernandes 
