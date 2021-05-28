@@ -1,9 +1,11 @@
 # Golang-Fundamentos-Linguagem
+[Udemy - Aprenda Golang do Zero](https://www.udemy.com/course/aprenda-golang-do-zero-desenvolva-uma-aplicacao-completa/)
+
 Curso Aprenda Golang do Zero ! - Módulo Fundamentos da Linguagem
 
 # Tecnologias Utilizadas
 
-- Go 1.16.3
+- [Go](https://golang.org/) versão 1.16.3
 
 # Executando arquivo
 
