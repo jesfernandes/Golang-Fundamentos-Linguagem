@@ -11,7 +11,7 @@ Curso Aprenda Golang do Zero ! - Módulo Fundamentos da Linguagem
 
 - Para iniciar a compilação do arquivo modulo usar o comando:
 
-`go mod init modulo`
+`go mod init name-your-module`
 
 - Para criar o arquivo build com a compilação da aplicação :
 
@@ -28,6 +28,30 @@ Curso Aprenda Golang do Zero ! - Módulo Fundamentos da Linguagem
 - Para excluir dependencias nao utilizadas do `go.mod`, usar o comando :
 
 `go mod tidy`
+
+- Para instalar pacotes
+
+
+    Código exemplo da aula 17 
+
+
+    go get your-link-package
+
+    go get github.com/urfave/cli
+
+
+- Executar a app por linha de comando , aula 17 (exemplo):
+
+
+    Código exemplo da aula 17 
+
+
+    go run main.go ip --host mercadolivre.com.br
+
+    go run main.go servidores --host mercadolivre.com.br
+
+    ./linha-de-comando ip --host mercadolivre.com.br
+
 
 # Autor
 Jéssika Fernandes 
