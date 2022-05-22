@@ -18,5 +18,5 @@ func escrever(texto string) {
 	}
 }
 
-// Pode-se ter várias goroutines
+// Pode-se ter várias 1 - goroutines
 // Para implementar, deve ser usado o comando "go" antes do metódo a ser executado.
